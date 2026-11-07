@@ -34,7 +34,7 @@ An interactive two-page Excel dashboard analyzing ~50K e-commerce orders (2022â€
 
 ## Files
 - `Final Project.xlsx`: the full workbook (data, pivots, dashboard pages)
-- `/screenshots`: dashboard previews
+- `/Visuals`: dashboard previews
 
 ## Author
 [Your Name] | [LinkedIn link]
