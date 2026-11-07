@@ -37,4 +37,4 @@ An interactive two-page Excel dashboard analyzing ~50K e-commerce orders (2022â€
 - `/Visuals`: dashboard previews
 
 ## Author
-[Your Name] | [LinkedIn link]
+[Mekdad Adam Mohajer] | [https://www.linkedin.com/in/mekdad-adam-mohajer-616525377/]
